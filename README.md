@@ -77,4 +77,8 @@ Le projet a été réalisé dans le contexte d'une Game Jam, avec une contrainte
 
 ## 👤 Auteur
 
+- IQiyuu
+- Robin258
+- Artelys
+  
 Projet réalisé dans le cadre d'une **Game Jam en janvier 2025**.
